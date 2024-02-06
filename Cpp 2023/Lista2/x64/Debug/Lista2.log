@@ -1,0 +1,6 @@
+﻿  Zadanie3L2.cpp
+C:\Users\Adam\Desktop\Cpp 2023\Lista2\Zadanie3L2.cpp(24,32): error C2131: wyrażenie nie zostało obliczone do stałej
+C:\Users\Adam\Desktop\Cpp 2023\Lista2\Zadanie3L2.cpp(24,23): message : przyczyną niepowodzenia był odczyt zmiennej poza jej okresem istnienia
+C:\Users\Adam\Desktop\Cpp 2023\Lista2\Zadanie3L2.cpp(24,23): message : zobacz użycie elementu „<args_0>”
+C:\Users\Adam\Desktop\Cpp 2023\Lista2\Zadanie3L2.cpp(37,18): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „auto add_total<int,double,float>(int,double,float)” funkcji szablon
+C:\Users\Adam\Desktop\Cpp 2023\Lista2\Zadanie3L2.cpp(37,40): fatal  error C1903: nie można odzyskać od poprzedniego błędu(ów); zatrzymywanie kompilacji

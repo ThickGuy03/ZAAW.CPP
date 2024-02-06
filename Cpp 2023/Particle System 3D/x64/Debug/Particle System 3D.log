@@ -1,0 +1,16 @@
+﻿  Main.cpp
+C:\Users\Adam\Desktop\Cpp 2023\Particle System 3D\Main.cpp(115,50): warning C4267: "argument": konwersja z "size_t" do "GLsizei", możliwa utrata danych
+C:\Users\Adam\Desktop\Cpp 2023\Particle System 3D\Main.cpp(174,45): warning C4267: "argument": konwersja z "size_t" do "GLsizei", możliwa utrata danych
+C:\Users\Adam\Desktop\Cpp 2023\Particle System 3D\Main.cpp(274,17): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\Adam\Desktop\Cpp 2023\Particle System 3D\Main.cpp(275,17): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\Adam\Desktop\Cpp 2023\Particle System 3D\Main.cpp(279,19): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\Adam\Desktop\Cpp 2023\Particle System 3D\Main.cpp(280,19): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\Adam\Desktop\Cpp 2023\Particle System 3D\Main.cpp(281,13): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\Adam\Desktop\Cpp 2023\Particle System 3D\Main.cpp(282,13): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\Adam\Desktop\Cpp 2023\Particle System 3D\Main.cpp(299,17): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\Adam\Desktop\Cpp 2023\Particle System 3D\Main.cpp(300,17): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\Adam\Desktop\Cpp 2023\Particle System 3D\Main.cpp(304,19): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\Adam\Desktop\Cpp 2023\Particle System 3D\Main.cpp(305,19): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\Adam\Desktop\Cpp 2023\Particle System 3D\Main.cpp(306,13): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\Adam\Desktop\Cpp 2023\Particle System 3D\Main.cpp(307,13): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+  Particle System 3D.vcxproj -> C:\Users\Adam\Desktop\Cpp 2023\Particle System 3D\x64\Debug\Particle System 3D.exe

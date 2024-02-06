@@ -1,0 +1,4 @@
+﻿Zadanie2.obj : error LNK2005: Element "void __cdecl printWithThreadId(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (?printWithThreadId@@YAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) jest już zdefiniowany w elemencie Zadanie1.obj
+Zadanie2.obj : error LNK2005: Element main jest już zdefiniowany w elemencie Zadanie1.obj
+Zadanie2.obj : error LNK2005: Element "class std::mutex coutMutex" (?coutMutex@@3Vmutex@std@@A) jest już zdefiniowany w elemencie Zadanie1.obj
+C:\Users\Adam\Desktop\Cpp 2023\Lista5\x64\Debug\Lista5.exe : fatal error LNK1169: znaleziono co najmniej jeden wielokrotnie zdefiniowany symbol
